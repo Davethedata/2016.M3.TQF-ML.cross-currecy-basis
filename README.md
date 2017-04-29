@@ -30,7 +30,7 @@ Try KNN/logistic/SVM/RandomForest/bagging/AdaBoost to choose a better model.
 
 
 ### Data
-（more detail in [data description](data_description.pdf)）
+（more detail in [data description](data/data_description.pdf)）
 
 It’s a dataset of 2 year EURUSD basis and its possible contributors. 
 
